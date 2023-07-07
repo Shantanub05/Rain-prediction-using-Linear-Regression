@@ -1,2 +1,2 @@
 # Rain-prediction-using-Linear-Regression
-Leveraged Label Encoding for improved analysis and modeling by converting categorical variables. Utilized Linear Regression to establish predictive models, evaluating accuracy with Mean Absolute Error and goodness-of-fit using R-squared Score.
+Developed a rain prediction project utilizing dataset analysis and modeling techniques. Applied Label Encoding, employed Linear Regression, evaluated accuracy with Mean Absolute Error, and measured goodness-of-fit using R-squared Score to predict rainfall patterns effectively.
